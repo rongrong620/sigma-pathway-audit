@@ -1,0 +1,17 @@
+NODE_MAP = {
+    "Body fat composition": ["v0", "v1", "v2", "v3"],
+    "Sleep OSA": ["v4", "v5", "v6"],
+    "Sleep quality": ["v7", "v8", "v9", "v10"],
+    "Nocturnal hypoxia burden": ["v11", "v12"],
+    "Sleep heart rate / HRV": ["v13", "v14", "v15", "v16"],
+    "Blood pressure lying": ["v17", "v18", "v19"],
+    "Blood pressure sitting": ["v20", "v21", "v22"],
+    "Blood pressure standing": ["v23", "v24", "v25", "v26", "v27", "v28"],
+    "Blood pressure resting": ["v29", "v30", "v31"],
+    "Blood pressure orthostatic": ["v32", "v33", "v34", "v35"],
+    "Blood pressure pulse": ["v36", "v37", "v38"],
+    "Vascular health": ["v39", "v40"],
+    "Carotid IMT": ["v41", "v42", "v43", "v44", "v45", "v46", "v47", "v48", "v49"],
+    "Gut microbiome abundance": ["v50", "v51", "v52", "v53", "v54",
+                                 "v55", "v56", "v57", "v58", "v59_shannon"],
+}
